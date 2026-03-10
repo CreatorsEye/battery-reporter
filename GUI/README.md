@@ -8,8 +8,8 @@ Graphical user interface versions of the Creators Eye Battery Tester.
 
 | Version | Platform | Description |
 |---------|----------|-------------|
-| [**HTML GUI**](./HTML/) | Windows, macOS, Linux | One HTML file, open in any browser |
-| [**Desktop GUI**](./DESKTOP/) | Windows, macOS | Standalone apps, no browser needed |
+| [HTML GUI](./HTML/) | Windows, macOS, Linux | One HTML file, open in any browser |
+| [Desktop GUI](./DESKTOP/) | Windows, macOS | Standalone apps, no browser needed |
 
 ---
 
@@ -22,36 +22,36 @@ Graphical user interface versions of the Creators Eye Battery Tester.
 | File size | ~600KB | ~50-80MB |
 | Browser needed | Yes (Chrome, Edge, Firefox, Safari) | No |
 | Works offline | Yes (after first load) | Yes |
-| Wake Lock | ✅ Yes | ✅ Yes |
-| 5-minute logging | ✅ Yes | ✅ Yes |
-| Auto-stop at 5% | ✅ Yes | ✅ Yes |
-| Charts & graphs | ✅ Yes | ✅ Yes |
-| Test comparison | ✅ Yes | ✅ Yes |
-| Dark mode | ✅ Yes | ✅ Yes |
-| Folder selection | ✅ Yes | ✅ Yes |
-| Test recovery | ✅ Yes | ✅ Yes |
+| Wake Lock | Yes | Yes |
+| 5-minute logging | Yes | Yes |
+| Auto-stop at 5% | Yes | Yes |
+| Charts & graphs | Yes | Yes |
+| Test comparison | Yes | Yes |
+| Dark mode | Yes | Yes |
+| Folder selection | Yes | Yes |
+| Test recovery | Yes | Yes |
 
 ---
 
 ## Which One Should You Choose?
 
-### Choose **HTML GUI** if:
+### Choose HTML GUI if:
 - You want the simplest option
 - You use Linux
 - You prefer opening files in your browser
 - You want the smallest download
 
-👉 [Go to HTML GUI](./HTML/)
+[Go to HTML GUI](./HTML/)
 
 ---
 
-### Choose **Desktop GUI** if:
+### Choose Desktop GUI if:
 - You want a standalone app (no browser)
 - You use Windows or macOS
 - You prefer native applications
 - You don't mind a larger download
 
-👉 [Go to Desktop GUI](./DESKTOP/)
+[Go to Desktop GUI](./DESKTOP/)
 
 ---
 
@@ -62,7 +62,7 @@ Graphical user interface versions of the Creators Eye Battery Tester.
 2. Click "I Agree" (first time only)
 3. Charge your laptop to 100%
 4. Unplug the charger
-5. Click **START TEST**
+5. Click START TEST
 6. Keep the window open (you can minimize it)
 7. Test stops automatically at 5%
 
@@ -98,15 +98,9 @@ Default save locations:
 
 | OS | HTML GUI | Desktop GUI |
 |----|----------|-------------|
-| Windows | Your chosen folder or Downloads | `Documents\CEBT-Reports\` |
-| macOS | Your chosen folder or Downloads | `Documents/CEBT-Reports/` |
+| Windows | Your chosen folder or Downloads | Documents\CEBT-Reports\ |
+| macOS | Your chosen folder or Downloads | Documents/CEBT-Reports/ |
 | Linux | Your chosen folder or Downloads | N/A |
-
----
-
-## Screenshots
-
-*(Screenshots would be added here)*
 
 ---
 
